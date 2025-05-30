@@ -1,0 +1,5 @@
+streamlit
+easyocr
+langdetect
+deep-translator
+Pillow
